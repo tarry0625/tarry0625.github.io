@@ -4,6 +4,7 @@
 大家好我是林郁軒~~
 ```C
 #include<stdio.h>
+int main
 {
   printf("HelloWorld")
   
